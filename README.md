@@ -5,4 +5,4 @@ I used ultralytics to streamline model training etc. The YOLO model I used was Y
 
 ## Dataset: https://www.kaggle.com/datasets/andy8744/playing-cards-object-detection-dataset
 
-## Project Proposal: [(x)]
+## [Project Proposal](main/Computer%20Vision%20Project%20Proposal.pdf), [Model Metrics](), [Project Code](main/PokerHandDetector.ipynb) 
